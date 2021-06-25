@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Archawatip
+- 👀 I’m interested in Full Stack Developer
+- 🌱 I’m currently learning JavaScript Framework
+- 📫 How to reach me fb.me/callmesandiaz
